@@ -1,0 +1,6 @@
+bacon-salid[attr]{
+	clip : rect(20px,20px,20px,20px);
+}
+p > p[target = _value]{
+  font-sIze : larger;
+}
